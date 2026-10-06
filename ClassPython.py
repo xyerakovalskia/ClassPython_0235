@@ -9,3 +9,5 @@ class Rectangle:
 
     def area(self):
         return self.length * self.width
+
+    def __str__(self):
